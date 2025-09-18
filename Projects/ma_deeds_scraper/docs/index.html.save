@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>MA Registry of Deeds – Collected PDF Links</title>
+  <link rel="stylesheet" href="style.css"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/datatables.net-dt/css/jquery.dataTables.min.css"/>
+</head>
+<body>
+<header>
+  <h1>MA Registry of Deeds – PDF Links</h1>
+  <p class="sub">Auto-updated from our scraper (GitHub Actions).</p>
+  <div class="actions">
+    <a id="downloadCsv" href="records.csv" download>Download CSV</a>
+    <label>County:
+      <select id="countyFilter">
+        <option value="">All counties</option>
+      </select>
+    </label>
+  </div>
+</header>
+
+<main>
+  <table id="recordsTable" class="display" style="width:100%">
+    <thead><tr><th>County</th><th>PDF Link</th></tr></thead>
+    <tbody></tbody>
+  </table>
+</main>
+
+<footer>
+  <small>Last updated: <span id="lastUpdated">—</span></small>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/datatables.net@2.1.6/js/dataTables.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
+
+ls docs
+
+

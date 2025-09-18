@@ -1,0 +1,8 @@
+services:
+  ma-deeds:
+    build: .
+    env_file: .env
+    volumes:
+      - ./downloads:/app/downloads
+      - ./ma_deeds_data:/app/ma_deeds_data
+    network_mode: bridge

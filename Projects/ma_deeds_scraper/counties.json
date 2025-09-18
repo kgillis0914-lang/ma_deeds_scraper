@@ -1,0 +1,23 @@
+[
+  {"name":"Barnstable","vendor":"browntech_barnstable","search_url":"https://search.barnstabledeeds.org/","notes":"Public search app"},
+  {"name":"Berkshire North","vendor":"masslandrecords","search_url":"https://www.masslandrecords.com/BerkNorth/","notes":"Adams"},
+  {"name":"Berkshire Middle","vendor":"masslandrecords","search_url":"https://www.masslandrecords.com/BerkMiddle/","notes":"Pittsfield"},
+  {"name":"Berkshire South","vendor":"masslandrecords","search_url":"https://www.masslandrecords.com/BerkSouth/","notes":"Great Barrington"},
+  {"name":"Bristol Fall River","vendor":"masslandrecords","search_url":"https://i2o.uslandrecords.com/MA/BristolFallRiver/D/Default.aspx","notes":"Avenu I2 portal"},
+  {"name":"Bristol North (Taunton)","vendor":"kofile_taunton","search_url":"https://search.tauntondeeds.com/","notes":"Kofile portal"},
+  {"name":"Bristol South (New Bedford)","vendor":"kofile_titleview","search_url":"https://newbedforddeeds.com/record-search/","notes":"TitleView entry"},
+  {"name":"Dukes","vendor":"masslandrecords","search_url":"https://www.masslandrecords.com/Dukes/","notes":""},
+  {"name":"Essex North (Lawrence)","vendor":"browntech_alis","search_url":"https://search.lawrencedeeds.com/ALIS/WW400R.HTM?WSIQTP=SY00","notes":"ALIS portal"},
+  {"name":"Essex South (Salem)","vendor":"masslandrecords","search_url":"https://www.masslandrecords.com/EssexSouth/","notes":""},
+  {"name":"Franklin","vendor":"masslandrecords","search_url":"https://www.masslandrecords.com/Franklin/","notes":""},
+  {"name":"Hampden","vendor":"browntech_alis","search_url":"https://search.hampdendeeds.com/ALIS/WW400R.HTM?WSIQTP=SY00","notes":"ALIS portal"},
+  {"name":"Hampshire","vendor":"masslandrecords","search_url":"https://www.masslandrecords.com/Hampshire/","notes":""},
+  {"name":"Middlesex North (Lowell)","vendor":"masslandrecords","search_url":"https://www.masslandrecords.com/MiddlesexNorth/","notes":""},
+  {"name":"Middlesex South (Cambridge)","vendor":"masslandrecords","search_url":"https://www.masslandrecords.com/MiddlesexSouth/","notes":""},
+  {"name":"Nantucket","vendor":"masslandrecords","search_url":"https://www.masslandrecords.com/Nantucket/","notes":""},
+  {"name":"Norfolk","vendor":"kofile_titleview","search_url":"https://norfolkresearch.org/","notes":"TitleView portal"},
+  {"name":"Plymouth","vendor":"kofile_titleview","search_url":"https://www.plymouthdeeds.org/home/pages/search-records","notes":"TitleView"},
+  {"name":"Suffolk","vendor":"masslandrecords","search_url":"https://www.masslandrecords.com/Suffolk/","notes":""},
+  {"name":"Worcester","vendor":"masslandrecords","search_url":"https://www.masslandrecords.com/Worcester/","notes":""},
+  {"name":"Worcester North (Fitchburg)","vendor":"masslandrecords","search_url":"https://www.masslandrecords.com/WorcNorth/","notes":""}
+]
